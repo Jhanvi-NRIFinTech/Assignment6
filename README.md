@@ -15,3 +15,6 @@ Cart-id,prodList,Cart Total;
 Inventory- list of all the products with quantity(optional)
 
 ![ss14](https://user-images.githubusercontent.com/124228487/216508963-2a551274-1563-498c-baa4-7f2aedd6b174.png)
+
+![ss15](https://user-images.githubusercontent.com/124228487/216509421-b28e80ee-c272-48b0-b67b-b91c099f1f01.png)
+
